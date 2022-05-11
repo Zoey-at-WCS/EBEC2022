@@ -29,21 +29,30 @@ The course is suited to researchers interested in understanding cancer from an e
 
 ## Programme
 ### Overview
-- Wednesday 2nd
-  - Introductions
-- Monday 7th
-  - Module 1 - Artemis
-  - Module 2 - Linux & Scripting
-- Tuesday 8th
-  - Module 3 - Short read mapping
-- Wednesday 9th
-  - Module 4 - Phylogenetics
-  - Module 5 - Genome assembly  
-- Thursday 10th
-  - Module 6 - Transcriptomics
-  - Eukaryotic exercise
-- Friday 11th
-  - Bacterial exercise   
+- Monday 13 June
+  - Welcome
+  - Keynote - Robert Gatenby, Moffitt Cancer Center, USA
+  - Session 1: Introduction to key evolutionary concepts
+  - Session 2: Bioinformatics for cancer
+  - Poster session 1
+- Tuesday 14 June
+  - Session 3: Fitting maths models to data
+  - Session 4: Evolutionary game theory
+  - Session 5: Agent-based modeling
+  - Poster session 2
+- Wednesday 15 June
+  - Session 6: Immune selection
+  - Session 7: Digital pathology and ecology
+  - Session 8: Landscape ecology
+  - Focus group discussions
+- Thursday 16 June
+  - Session 9: Phylogenomics - mutation rates
+  - Session 10: Phylogenomics - demographics, biogeography
+  - Session 11: Designing clinical trials - evol and ecol perspectives
+  - Focus group discussions
+- Friday 17 June
+  - Session 12: Communication
+  - Consolidation of learning and concluding remarks
 
 ### Course programme
 [Download here](EBEC_2022_programme_online.pdf)
