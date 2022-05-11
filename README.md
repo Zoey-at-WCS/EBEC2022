@@ -67,7 +67,14 @@ The course is suited to researchers interested in understanding cancer from an e
 [Download detailed programme here](EBEC_2022_programme_online.pdf)
 
 
-## Pre course reading
+## Delegate pack
+     - [Programme](EBEC_2022_programme_online.pdf)  
+     - [Delegate list to be added](manuals/module_artemis/module_artemis.md)  
+     - [Instructor biographies to be added](manuals/module_artemis/module_artemis.pdf)  
+     - [Student biographies to be added](manuals/module_artemis/module_artemis.pdf)  
+
+
+## Pre-course reading
 **General**  
      - [Doc 1 to be provided](presentations/Module_1_Artemis.pdf)  
      - [Doc 2 to be provided](manuals/module_artemis/module_artemis.md)  
