@@ -68,30 +68,30 @@ The course is suited to researchers interested in understanding cancer from an e
 
 
 ## Delegate pack
-     - [Welcome letter to be added](EBEC_2022_programme_online.pdf)  
-     - [Programme](EBEC_2022_programme_online.pdf)  
-     - [General information](EBEC_2022_programme_online.pdf)  
-     - [Delegate list to be added](manuals/module_artemis/module_artemis.md)  
-     - [Instructor biographies to be added](manuals/module_artemis/module_artemis.pdf)  
-     - [Student biographies to be added](manuals/module_artemis/module_artemis.pdf)  
-     - [Campus map to be added](manuals/module_artemis/module_artemis.pdf)  
+- [Welcome letter to be added](EBEC_2022_programme_online.pdf)  
+- [Programme](EBEC_2022_programme_online.pdf)  
+- [General information](EBEC_2022_programme_online.pdf)  
+- [Delegate list to be added](EBEC_2022_programme_online.pdf)  
+- [Instructor biographies to be added](EBEC_2022_programme_online.pdf)  
+- [Student biographies to be added](EBEC_2022_programme_online.pdf)  
+- [Campus map to be added](EBEC_2022_programme_online.pdf)  
 
 
 ## Pre-course reading
 **General**  
-     - [Doc 1 to be provided](presentations/Module_1_Artemis.pdf)  
-     - [Doc 2 to be provided](manuals/module_artemis/module_artemis.md)  
-     - [Doc 3 to be provided](manuals/module_artemis/module_artemis.pdf)  
+     - [Doc 1 to be provided](EBEC_2022_programme_online.pdf)  
+     - [Doc 2 to be provided](EBEC_2022_programme_online.pdf)  
+     - [Doc 3 to be provided](EBEC_2022_programme_online.pdf)  
   
 **TEST Session 1: Introduction to key evolutionary concepts**  
-     - [Doc 1 to be provided](presentations/intro-module-2-unix-linux.pdf)  
-     - [Doc 2 to be provided](manuals/module_linux_scripting/module_linux_scripting.md)  
-     - [Doc 3 to be provided](manuals/module_linux_scripting/module_linux_scripting.pdf)  
+     - [Doc 1 to be provided](EBEC_2022_programme_online.pdf)  
+     - [Doc 2 to be provided](EBEC_2022_programme_online.pdf)  
+     - [Doc 3 to be provided](EBEC_2022_programme_online.pdf)  
   
 **TEST Session 2: Bioinformatics for cancer**  
-     - [Doc 1 to be provided](presentations/intro-module-2-unix-linux.pdf)  
-     - [Doc 2 to be provided](manuals/module_linux_scripting/module_linux_scripting.md)  
-     - [Doc 3 to be provided](manuals/module_linux_scripting/module_linux_scripting.pdf)  
+     - [Doc 1 to be provided](EBEC_2022_programme_online.pdf)  
+     - [Doc 2 to be provided](EBEC_2022_programme_online.pdf)  
+     - [Doc 3 to be provided](EBEC_2022_programme_online.pdf)  
   
 
 
