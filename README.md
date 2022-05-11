@@ -2,7 +2,8 @@
 
  ![](https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg) 
    
-   
+
+
 # Evolutionary Biology and Ecology of Cancer 2022
 
 ## Course overview
@@ -12,7 +13,7 @@ This year’s programme will highlight various modelling (e.g. agent-based, game
 
 The course is suited to researchers interested in understanding cancer from an evolutionary and ecological perspective. Applications are invited from early-career scientists, including PhD students, postdoctoral fellows and new principal investigators.
 
-[Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/evolutionary-biology-and-ecology-of-cancer-20220613/)
+[View course website here](https://coursesandconferences.wellcomeconnectingscience.org/event/evolutionary-biology-and-ecology-of-cancer-20220613/)
 
 ## Committee
 - [Amy Boddy](https://www.anth.ucsb.edu/people/amy-boddy), University of California Santa Barbara, USA
@@ -66,49 +67,23 @@ The course is suited to researchers interested in understanding cancer from an e
 [Download detailed programme here](EBEC_2022_programme_online.pdf)
 
 
-## Course manual
-**Module 1 - Artemis**  
-     - [Introductory presentation](presentations/Module_1_Artemis.pdf)  
-     - [Online manual](manuals/module_artemis/module_artemis.md)  
-     - [Manual PDF version](manuals/module_artemis/module_artemis.pdf)  
+## Pre course reading
+**General**  
+     - [Doc 1 to be provided](presentations/Module_1_Artemis.pdf)  
+     - [Doc 2 to be provided](manuals/module_artemis/module_artemis.md)  
+     - [Doc 3 to be provided](manuals/module_artemis/module_artemis.pdf)  
   
-**Module 2 - Linux & Scripting**  
-     - [Introductory presentation](presentations/intro-module-2-unix-linux.pdf)  
-     - [Online manual](manuals/module_linux_scripting/module_linux_scripting.md)  
-     - [Manual PDF version](manuals/module_linux_scripting/module_linux_scripting.pdf)  
+**TEST Session 1: Introduction to key evolutionary concepts**  
+     - [Doc 1 to be provided](presentations/intro-module-2-unix-linux.pdf)  
+     - [Doc 2 to be provided](manuals/module_linux_scripting/module_linux_scripting.md)  
+     - [Doc 3 to be provided](manuals/module_linux_scripting/module_linux_scripting.pdf)  
   
-**Module 3 - Short Read Mapping**  
-     - [Introductory presentation](presentations/01FEB22_Mapping_intro_SS_SB.pdf)  
-     - [Online manual](manuals/module_shortread_mapping/module_shortread_mapping.md)  
-     - [Manual PDF version](manuals/module_shortread_mapping/module_shortread_mapping.pdf)  
+**TEST Session 2: Bioinformatics for cancer**  
+     - [Doc 1 to be provided](presentations/intro-module-2-unix-linux.pdf)  
+     - [Doc 2 to be provided](manuals/module_linux_scripting/module_linux_scripting.md)  
+     - [Doc 3 to be provided](manuals/module_linux_scripting/module_linux_scripting.pdf)  
   
-**Module 4 - Phylogenetics**  
-     - [Introductory presentation](presentations/Module_4_Phylogenetics_WWPG_2022.pdf)  
-     - [Online manual](manuals/module_phylogenetics/module_phylogenetics.md)  
-     - [Manual PDF version](manuals/module_phylogenetics/module_phylogenetics.pdf)   
-  
-**Module 5 - Genome Assembly**  
-     - [Introductory presentation](presentations/WWPG_Module5_GenomeAssembly_Introduction.pdf)   
-     - [Online manual](manuals/module_denovo_assembly/module_denovo_assembly.md)  
-     - [Manual PDF version](manuals/module_denovo_assembly/module_denovo_assembly.pdf)    
-  
-**Module 6 - Transcriptomics**  
-     - [Introductory presentation](presentations/WWPG22_LATAM_Module6_transcriptomics.pptx)  
-     - [Online manual](manuals/module_transcriptomics/module_transcriptomics.md)  
-     - [Manual PDF version](manuals/module_transcriptomics/module_transcriptomics.pdf)   
-  
-**Task 1 - Sexual development in malaria parasites**  
-     - [Introductory presentation](presentations/Task1Presentation.pptx)  
-     - [Online manual](manuals/exercise_RNAseq/exercise_RNAseq.md)  
-     - [Manual PDF version](manuals/exercise_RNAseq/exercise_RNAseq.pdf)  
-  
-**Task 2 - Phylogenomics of Salmonella**  
-     - [Introductory presentation](presentations/)  
-     - [Online manual](manuals/exercise_bacterial/Task2_georeferencing.md)  
-     - [Manual PDF version](manuals/exercise_bacterial/Task2_georeferencing.pdf) 
-  
-**Appendix**  
-     - [Manual PDF version](manuals/WWPG_VietnamVirtual_Appendix.pdf)  
+
 
 
 
