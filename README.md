@@ -4,20 +4,15 @@
    
    
 # Evolutionary Biology and Ecology of Cancer 2022
-Hands-on training in genomic analysis of bacterial and eukaryotic pathogens
 
 ## Course overview
-Understanding pathogen genomes, how they evolve and which genes are essential for their ability to cause disease, is a key part of the battle to reduce the global disease burden.
+Cancers are an evolving ecosystem of cells, and so knowledge of evolution and ecology is important to understand and clinically control cancer. Unfortunately, there are few cancer biologists trained in these disciplines. This course aims to bridge that gap, facilitate cross-fertilisation of ideas, and provide hands-on training in the application of tools from evolution and ecology to cancer.
 
-This five-day computational course aims to give molecular microbiologists working with bacterial and eukaryotic pathogens a working knowledge of genomic analysis. The course will be taught by members of the Parasites & Microbes teams from the Wellcome Sanger Institute in collaboration with regional instructors and speakers, and will take the form of a series of modules covering the fundamental aspects of DNA sequence analysis and exploitation.
+This year’s programme will highlight various modelling (e.g. agent-based, game theory), ecological, phylogenetic and digital pathology tools used in cancer research. Participants will gain knowledge of evolutionary biology as applied to the somatic cell evolution in cancer, as well as the principles of ecology relevant to studying tumour microenvironments and immune selection. We also discuss the application of evo-eco principles in the design of novel clinical trials.
 
-The course begins with training in the use of genome analysis software (Artemis and ACT), developed at the Sanger Institute for genome exploration and comparative genomics. It then goes on to cover the mapping of Illumina sequence data, SNP calling, phylogenetics, genome assembly, genome annotation and RNA-seq.
+The course is suited to researchers interested in understanding cancer from an evolutionary and ecological perspective. Applications are invited from early-career scientists, including PhD students, postdoctoral fellows and new principal investigators.
 
-Each module will be introduced with a short talk, followed by hands-on worked examples using data from bacterial and eukaryotic pathogens. A key aspect of this course is the shared interest in pathogens between instructors and participants. This common understanding of the questions and problems presented by our work results in particularly fruitful interactions.
-
-The course is aimed at research scientists or clinicians/healthcare professionals based in institutes in Latin America who are actively involved in, or soon to commence, relevant research on bacterial and eukaryotic pathogens. The course is free to attend for non-commercial applicants and limited bursaries are available to cover travel and accommodation expenses. The course will be taught in English.
-
-[Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/working-with-pathogen-genomes-latin-america-virtual-20220207/)
+[Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/evolutionary-biology-and-ecology-of-cancer-20220613/)
 
 ## Instructors
 - [Daryl Domman](https://hsc.unm.edu/medicine/departments/internal-medicine/programs-and-centers/global-health/research/pathogen-genomics.html), University of New Mexico, USA
