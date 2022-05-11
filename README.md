@@ -14,8 +14,16 @@ The course is suited to researchers interested in understanding cancer from an e
 
 [Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/evolutionary-biology-and-ecology-of-cancer-20220613/)
 
+## Committee
+- [Amy Boddy](https://www.anth.ucsb.edu/people/amy-boddy), University of California Santa Barbara, USA
+- - [Kit Curtius](https://profiles.ucsd.edu/kathleen.curtius), University of California San Diego, USA
+- [Trevor Graham](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-trevor-graham), Institute of Cancer Research, UK
+- - [Carlo Maley](https://biodesign.asu.edu/carlo-maley), Arizona State University, USA
+
+## Keynote speaker
+- [Robert Gatenby](https://moffitt.org/research-science/researchers/robert-gatenby/), Moffitt Cancer Center, USA
+
 ## Instructors
-- [Daryl Domman](https://hsc.unm.edu/medicine/departments/internal-medicine/programs-and-centers/global-health/research/pathogen-genomics.html), University of New Mexico, USA
 - [Fernán Agüero](https://www.trypanosomatics.org/authors/fernan/), Univ. Nacional de San Martín, Argentina
 - [Florencia Díaz Viraqué](https://www.researchgate.net/profile/Florencia-Diaz-Viraque), Institut Pasteur Montevideo, Uruguay
 - [Jose F. Tort](https://www.researchgate.net/profile/Jose-Tort), Univ. de la República, Uruguay
