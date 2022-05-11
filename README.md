@@ -16,23 +16,25 @@ The course is suited to researchers interested in understanding cancer from an e
 
 ## Committee
 - [Amy Boddy](https://www.anth.ucsb.edu/people/amy-boddy), University of California Santa Barbara, USA
-- - [Kit Curtius](https://profiles.ucsd.edu/kathleen.curtius), University of California San Diego, USA
+- [Kit Curtius](https://profiles.ucsd.edu/kathleen.curtius), University of California San Diego, USA
 - [Trevor Graham](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-trevor-graham), Institute of Cancer Research, UK
-- - [Carlo Maley](https://biodesign.asu.edu/carlo-maley), Arizona State University, USA
+- [Carlo Maley](https://biodesign.asu.edu/carlo-maley), Arizona State University, USA
 
 ## Keynote speaker
 - [Robert Gatenby](https://moffitt.org/research-science/researchers/robert-gatenby/), Moffitt Cancer Center, USA
 
 ## Instructors
-- [Fernán Agüero](https://www.trypanosomatics.org/authors/fernan/), Univ. Nacional de San Martín, Argentina
-- [Florencia Díaz Viraqué](https://www.researchgate.net/profile/Florencia-Diaz-Viraque), Institut Pasteur Montevideo, Uruguay
-- [Jose F. Tort](https://www.researchgate.net/profile/Jose-Tort), Univ. de la República, Uruguay
-- [Lionel Urán Landaburu](https://www.researchgate.net/profile/Lionel-Uran-Landaburu-2), Univ. Nacional de San Martín, Argentina
-- [Marcela Suarez Esquivel](https://www.researchgate.net/profile/Marcela-Suarez-Esquivel), Univ. Nacional, Costa Rica
-- [Rodrigo Quiroga](https://www.conicet.gov.ar/new_scp/detalle.php?id=36602%20[conicet.gov.ar]), Univ. Nacional de Córdoba, Argentina
-- [Sophie Belman](https://www.sanger.ac.uk/person/belman-sophie/), Wellcome Sanger Institute, UK
-- [Steve Doyle](https://www.sanger.ac.uk/person/doyle-stephen/), Wellcome Sanger Institute, UK
-- [Sushmita Sridhar](https://www.massgeneral.org/medicine/infectious-diseases/research-and-initiatives/harris-and-larocque-laboratory/), Massachusetts General Hospital/Harvard Medical School, USA
+- [Giulio Caravagna](https://sites.google.com/site/giuliocaravagna/), University of Trieste, Italy
+- [Luis Cisneros](https://biodesign.asu.edu/luis-cisneros), Arizona State University, USA
+- [Robert Gatenby](https://moffitt.org/research-science/researchers/robert-gatenby/), Moffitt Cancer Center, USA
+- [Weini Huang](https://www.qmul.ac.uk/maths/profiles/huangw.html), Queen Mary, University of London, UK
+- [Eszter Lakatos](https://www.bartscancer.london/), St Bartholomew's Hospital and Queen Mary, University of London, UK
+- [Michelle Lockley](https://www.bartscancer.london/staff/dr-michelle-lockley/), St Bartholomew's Hospital and Queen Mary, University of London, UK
+- [Diego Mallo Adan](https://isearch.asu.edu/profile/2740266), Arizona State University, USA
+- [Henry Scowcroft](https://news.cancerresearchuk.org/author/henry-scowcroft/), Cancer Research UK, UK
+- [Kateřina Staňková](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/k-katerina-stankova), Delft University of Technology, The Netherlands
+- [Ewa Szczurek](https://www.mimuw.edu.pl/~szczurek/), University of Warsaw, Poland
+- [Nick Trahearn](https://www.icr.ac.uk/our-research/research-divisions/division-of-molecular-pathology/evolutionary-genomics-modelling), Institute of Cancer Research, UK
 
 
 ## Programme
