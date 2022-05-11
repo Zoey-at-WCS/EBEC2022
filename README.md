@@ -51,7 +51,7 @@ The course is aimed at research scientists or clinicians/healthcare professional
   - Bacterial exercise   
 
 ### Course programme
-[Download here](Working_with_Pathogen_Genomes_February_2022_timetable.pdf)
+[Download here](EBEC_2022_programme_online.pdf)
 
 
 ## Course manual
