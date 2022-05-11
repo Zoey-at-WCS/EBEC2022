@@ -38,7 +38,6 @@ The course is suited to researchers interested in understanding cancer from an e
 
 
 ## Programme
-### Overview
 - Monday 13 June
   - Welcome
   - Keynote - Robert Gatenby, Moffitt Cancer Center, USA
@@ -64,8 +63,7 @@ The course is suited to researchers interested in understanding cancer from an e
   - Session 12: Communication
   - Consolidation of learning and concluding remarks
 
-### Course programme
-[Download here](EBEC_2022_programme_online.pdf)
+[Download detailed programme here](EBEC_2022_programme_online.pdf)
 
 
 ## Course manual
@@ -114,7 +112,7 @@ The course is suited to researchers interested in understanding cancer from an e
 
 
 
-Any reuse of the course materials, data or code is encouraged with due acknowledgement.
+Any reuse of the course materials is encouraged with due acknowledgement.
 
 ******
 ## License
