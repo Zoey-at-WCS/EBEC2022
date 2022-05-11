@@ -68,7 +68,7 @@ The course is suited to researchers interested in understanding cancer from an e
 
 
 ## Delegate pack
-     - [Welcome letter to be added](EBEC_2022_programme_online.pdf)  
+ - [Welcome letter to be added](EBEC_2022_programme_online.pdf)  
 - [Programme](EBEC_2022_programme_online.pdf)  
 - [General information](EBEC_2022_programme_online.pdf)  
 - [Delegate list to be added](EBEC_2022_programme_online.pdf)  
