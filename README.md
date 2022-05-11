@@ -76,7 +76,7 @@ The course is suited to researchers interested in understanding cancer from an e
   - [General information](EBEC_2022_programme_online.pdf)  
   - [Campus map to be added](EBEC_2022_programme_online.pdf)  
 
-**General**  
+**Useful information**  
      - [Doc 1 to be provided](EBEC_2022_programme_online.pdf)  
      - [Doc 2 to be provided](EBEC_2022_programme_online.pdf)  
      - [Doc 3 to be provided](EBEC_2022_programme_online.pdf)  
