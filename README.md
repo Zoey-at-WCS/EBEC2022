@@ -38,7 +38,9 @@ The course is suited to researchers interested in understanding cancer from an e
 - [Nick Trahearn](https://www.icr.ac.uk/our-research/research-divisions/division-of-molecular-pathology/evolutionary-genomics-modelling), Institute of Cancer Research, UK
 
 ## Delegate pack
-**Programme**
+**Programme**  
+     - [Detailed programme](EBEC_2022_programme_online.pdf)  
+
 - Monday 13 June
   - Welcome
   - Keynote - Robert Gatenby, Moffitt Cancer Center, USA
@@ -66,20 +68,15 @@ The course is suited to researchers interested in understanding cancer from an e
 
 [Download detailed programme here](EBEC_2022_programme_online.pdf)
 
-**Attendees**
-  - [Delegate list to be added](EBEC_2022_programme_online.pdf)  
-  - [Instructor biographies to be added](EBEC_2022_programme_online.pdf)  
-  - [Student biographies to be added](EBEC_2022_programme_online.pdf)  
-
-**Useful information**
-  - [Welcome letter to be added](EBEC_2022_programme_online.pdf)  
-  - [General information](EBEC_2022_programme_online.pdf)  
-  - [Campus map to be added](EBEC_2022_programme_online.pdf)  
+**Attendees**  
+     - [Delegate list to be added](EBEC_2022_programme_online.pdf)  
+     - [Instructor biographies to be added](EBEC_2022_programme_online.pdf)  
+     - [Student biographies to be added](EBEC_2022_programme_online.pdf)  
 
 **Useful information**  
-     - [Doc 1 to be provided](EBEC_2022_programme_online.pdf)  
-     - [Doc 2 to be provided](EBEC_2022_programme_online.pdf)  
-     - [Doc 3 to be provided](EBEC_2022_programme_online.pdf)  
+     - [Welcome letter to be added](EBEC_2022_programme_online.pdf)  
+     - [Joining instructions to be added](EBEC_2022_programme_online.pdf)  
+     - [Campus map to be added](EBEC_2022_programme_online.pdf)  
 
 ## Pre-course reading
 **General**  
