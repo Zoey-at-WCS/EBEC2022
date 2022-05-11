@@ -39,8 +39,6 @@ The course is suited to researchers interested in understanding cancer from an e
 
 ## Delegate pack
 **Programme**  
-     - [Detailed programme](EBEC_2022_programme_online.pdf)  
-
 - Monday 13 June
   - Welcome
   - Keynote - Robert Gatenby, Moffitt Cancer Center, USA
