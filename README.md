@@ -27,7 +27,7 @@ The course is suited to researchers interested in understanding cancer from an e
 - [Sushmita Sridhar](https://www.massgeneral.org/medicine/infectious-diseases/research-and-initiatives/harris-and-larocque-laboratory/), Massachusetts General Hospital/Harvard Medical School, USA
 
 
-## Timetable
+## Programme
 ### Overview
 - Wednesday 2nd
   - Introductions
