@@ -29,7 +29,7 @@ The course is suited to researchers interested in understanding cancer from an e
 - [Luis Cisneros](https://biodesign.asu.edu/luis-cisneros), Arizona State University, USA
 - [Robert Gatenby](https://moffitt.org/research-science/researchers/robert-gatenby/), Moffitt Cancer Center, USA
 - [Weini Huang](https://www.qmul.ac.uk/maths/profiles/huangw.html), Queen Mary, University of London, UK
-- [Eszter Lakatos](https://www.bartscancer.london/), St Bartholomew's Hospital and Queen Mary, University of London, UK
+- [Eszter Lakatos](https://scholar.google.com/citations?user=RWhQiEoAAAAJ&hl=en), St Bartholomew's Hospital and Queen Mary, University of London, UK
 - [Michelle Lockley](https://www.bartscancer.london/staff/dr-michelle-lockley/), St Bartholomew's Hospital and Queen Mary, University of London, UK
 - [Diego Mallo Adan](https://isearch.asu.edu/profile/2740266), Arizona State University, USA
 - [Henry Scowcroft](https://news.cancerresearchuk.org/author/henry-scowcroft/), Cancer Research UK, UK
