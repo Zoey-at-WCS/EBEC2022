@@ -79,8 +79,8 @@ The course is suited to researchers interested in understanding cancer from an e
 
 ## Pre-course reading
 **Session 4: Evolutionary game theory**  
-     - [Reading 1](S4_Evolutionary_game_theory_pre-course_reading_1.pdf)  
-     - [Reading 2](S4_Evolutionary_game_theory_pre-course_reading_2.pdf)  
+     - [Document 1](S4_Evolutionary_game_theory_pre-course_reading_1.pdf)  
+     - [Document 2](S4_Evolutionary_game_theory_pre-course_reading_2.pdf)  
   
   
 
