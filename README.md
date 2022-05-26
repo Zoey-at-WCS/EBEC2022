@@ -72,15 +72,15 @@ The course is suited to researchers interested in understanding cancer from an e
      - [Student biographies to be added soon]  
 
 **Useful information**  
-     - [Welcome letter](Welcome_letter_EBEC2022.pdf)  
-     - [List of poster numbers](Poster_list_EBEC2022.pdf) 
-     - [Download shipping label here](Shipping_label_EBEC2022.pdf) 
-     - [Campus map](Campus map.pdf)  
+     - [Welcome letter](Welcome_letter_EBEC2022.pdf)
+     - [List of poster numbers](Poster_list_EBEC2022.pdf)
+     - [Download shipping label here](Shipping_label_EBEC2022.pdf)
+     - [Campus map](Campus map.pdf)
 
 ## Pre-course reading
 **Session 4: Evolutionary game theory**  
-     - [Doc 1](S4_Evolutionary_game_theory_pre-course_reading_1.pdf)  
-     - [Doc 2](S4_Evolutionary_game_theory_pre-course_reading_2.pdf)  
+     - [Reading 1](S4_Evolutionary_game_theory_pre-course_reading_1.pdf)  
+     - [Reading 2](S4_Evolutionary_game_theory_pre-course_reading_2.pdf)  
   
   
 
