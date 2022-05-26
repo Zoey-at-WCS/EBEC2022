@@ -67,9 +67,9 @@ The course is suited to researchers interested in understanding cancer from an e
 [Download detailed programme here](EBEC_2022_programme_online.pdf)
 
 **Attendees**  
-     - [Delegate list to be added](EBEC_2022_programme_online.pdf)  
-     - [Instructor biographies to be added](EBEC_2022_programme_online.pdf)  
-     - [Student biographies to be added](EBEC_2022_programme_online.pdf)  
+     - [Delegate list to be added]  
+     - [Instructor biographies to be added] 
+     - [Student biographies to be added]  
 
 **Useful information**  
      - [Welcome letter](Welcome_letter_EBEC2022.pdf)  
@@ -77,7 +77,6 @@ The course is suited to researchers interested in understanding cancer from an e
      - [Campus map](Campus map.pdf)  
 
 ## Pre-course reading
- 
 **Session 4: Evolutionary game theory**  
      - [Doc 1 to be provided](EBEC_2022_programme_online.pdf)  
      - [Doc 2 to be provided](EBEC_2022_programme_online.pdf)  
