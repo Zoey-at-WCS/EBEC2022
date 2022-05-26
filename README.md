@@ -64,17 +64,17 @@ The course is suited to researchers interested in understanding cancer from an e
   - Session 12: Communication
   - Consolidation of learning and concluding remarks
 
-[Download detailed programme here](EBEC_2022_programme_online.pdf)
+[Download detailed programme here](Programme_online_EBEC2022.pdf)
 
 **Attendees**  
-     - [Delegate list to be added]  
-     - [Instructor biographies to be added] 
-     - [Student biographies to be added]  
+     - [Delegate list to be added soon]  
+     - [Tutor biographies to be added soon] 
+     - [Student biographies to be added soon]  
 
 **Useful information**  
      - [Welcome letter](Welcome_letter_EBEC2022.pdf)  
      - [List of poster numbers](Poster_list_EBEC2022.pdf) 
-     - [Shipping label](Shipping_label_EBEC2022.pdf) 
+     - [Download shipping label here](Shipping_label_EBEC2022.pdf) 
      - [Campus map](Campus map.pdf)  
 
 ## Pre-course reading
