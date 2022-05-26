@@ -18,21 +18,21 @@ The course is suited to researchers interested in understanding cancer from an e
 ## Committee
 - [Amy Boddy](https://www.anth.ucsb.edu/people/amy-boddy), University of California Santa Barbara, USA
 - [Kit Curtius](https://profiles.ucsd.edu/kathleen.curtius), University of California San Diego, USA
-- [Trevor Graham](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-trevor-graham), Institute of Cancer Research, UK
+- [Trevor Graham](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-trevor-graham), The Institute of Cancer Research, UK
 - [Carlo Maley](https://biodesign.asu.edu/carlo-maley), Arizona State University, USA
 
 ## Keynote speaker
 - [Robert Gatenby](https://moffitt.org/research-science/researchers/robert-gatenby/), Moffitt Cancer Center, USA
 
-## Instructors
+## Tutors
 - [Giulio Caravagna](https://sites.google.com/site/giuliocaravagna/), University of Trieste, Italy
 - [Luis Cisneros](https://biodesign.asu.edu/luis-cisneros), Arizona State University, USA
+- [Calum Gabbutt](https://orcid.org/0000-0003-1946-4780), The Institute of Cancer Research, UK
 - [Robert Gatenby](https://moffitt.org/research-science/researchers/robert-gatenby/), Moffitt Cancer Center, USA
 - [Weini Huang](https://www.qmul.ac.uk/maths/profiles/huangw.html), Queen Mary, University of London, UK
 - [Eszter Lakatos](https://scholar.google.com/citations?user=RWhQiEoAAAAJ&hl=en), St Bartholomew's Hospital and Queen Mary, University of London, UK
 - [Michelle Lockley](https://www.bartscancer.london/staff/dr-michelle-lockley/), St Bartholomew's Hospital and Queen Mary, University of London, UK
 - [Diego Mallo Adan](https://isearch.asu.edu/profile/2740266), Arizona State University, USA
-- [Henry Scowcroft](https://news.cancerresearchuk.org/author/henry-scowcroft/), Cancer Research UK, UK
 - [Kateřina Staňková](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/k-katerina-stankova), Delft University of Technology, The Netherlands
 - [Ewa Szczurek](https://www.mimuw.edu.pl/~szczurek/), University of Warsaw, Poland
 - [Nick Trahearn](https://www.icr.ac.uk/our-research/research-divisions/division-of-molecular-pathology/evolutionary-genomics-modelling), Institute of Cancer Research, UK
