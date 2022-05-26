@@ -18,7 +18,7 @@ The course is suited to researchers interested in understanding cancer from an e
 ## Committee
 - [Amy Boddy](https://www.anth.ucsb.edu/people/amy-boddy), University of California Santa Barbara, USA
 - [Kit Curtius](https://profiles.ucsd.edu/kathleen.curtius), University of California San Diego, USA
-- [Trevor Graham](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-trevor-graham), The Institute of Cancer Research, UK
+- [Trevor Graham](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-trevor-graham), Institute of Cancer Research, UK
 - [Carlo Maley](https://biodesign.asu.edu/carlo-maley), Arizona State University, USA
 
 ## Keynote speaker
@@ -27,7 +27,7 @@ The course is suited to researchers interested in understanding cancer from an e
 ## Tutors
 - [Giulio Caravagna](https://sites.google.com/site/giuliocaravagna/), University of Trieste, Italy
 - [Luis Cisneros](https://biodesign.asu.edu/luis-cisneros), Arizona State University, USA
-- [Calum Gabbutt](https://orcid.org/0000-0003-1946-4780), The Institute of Cancer Research, UK
+- [Calum Gabbutt](https://orcid.org/0000-0003-1946-4780), Institute of Cancer Research, UK
 - [Robert Gatenby](https://moffitt.org/research-science/researchers/robert-gatenby/), Moffitt Cancer Center, USA
 - [Weini Huang](https://www.qmul.ac.uk/maths/profiles/huangw.html), Queen Mary, University of London, UK
 - [Eszter Lakatos](https://scholar.google.com/citations?user=RWhQiEoAAAAJ&hl=en), St Bartholomew's Hospital and Queen Mary, University of London, UK
