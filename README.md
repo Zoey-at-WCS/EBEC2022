@@ -73,7 +73,7 @@ The course is suited to researchers interested in understanding cancer from an e
 
 **Useful information**  
      - [Welcome letter](Welcome_letter_EBEC2022.pdf)  
-     - [List of poster numbers](EBEC_2022_programme_online.pdf)  
+     - [List of poster numbers](Poster_list_EBEC2022.pdf)  
      - [Campus map](Campus map.pdf)  
 
 ## Pre-course reading
