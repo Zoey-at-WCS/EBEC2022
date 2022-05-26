@@ -77,20 +77,12 @@ The course is suited to researchers interested in understanding cancer from an e
      - [Campus map to be added](EBEC_2022_programme_online.pdf)  
 
 ## Pre-course reading
-**General**  
+ 
+**Session 4: Evolutionary game theory**  
      - [Doc 1 to be provided](EBEC_2022_programme_online.pdf)  
      - [Doc 2 to be provided](EBEC_2022_programme_online.pdf)  
      - [Doc 3 to be provided](EBEC_2022_programme_online.pdf)  
   
-**TEST Session 1: Introduction to key evolutionary concepts**  
-     - [Doc 1 to be provided](EBEC_2022_programme_online.pdf)  
-     - [Doc 2 to be provided](EBEC_2022_programme_online.pdf)  
-     - [Doc 3 to be provided](EBEC_2022_programme_online.pdf)  
-  
-**TEST Session 2: Bioinformatics for cancer**  
-     - [Doc 1 to be provided](EBEC_2022_programme_online.pdf)  
-     - [Doc 2 to be provided](EBEC_2022_programme_online.pdf)  
-     - [Doc 3 to be provided](EBEC_2022_programme_online.pdf)  
   
 
 
