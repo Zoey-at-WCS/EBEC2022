@@ -68,7 +68,7 @@ The course is suited to researchers interested in understanding cancer from an e
 
 **Attendees**  
      - [Delegate list to be added soon]  
-     - [Tutor biographies to be added soon] 
+     - [Tutor biographies to be added soon]  
      - [Student biographies to be added soon]  
 
 **Useful information**  
