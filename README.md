@@ -78,9 +78,8 @@ The course is suited to researchers interested in understanding cancer from an e
 
 ## Pre-course reading
 **Session 4: Evolutionary game theory**  
-     - [Doc 1 to be provided](EBEC_2022_programme_online.pdf)  
+     - [Doc 1](S4_Evolutionary_game_theory_pre-course_reading_1.pdf)  
      - [Doc 2 to be provided](EBEC_2022_programme_online.pdf)  
-     - [Doc 3 to be provided](EBEC_2022_programme_online.pdf)  
   
   
 
