@@ -77,7 +77,7 @@ The course is suited to researchers interested in understanding cancer from an e
      - [Download shipping label here](Shipping_label_EBEC2022.pdf)  
      - [Campus map](Campus_map.pdf)  
 
-## Pre-course actions
+## Pre-course preparation
 **Session 3: Fitting maths models to data**  
      - [Installation instructions](S3_Fitting_maths_models_to_data_installation_instructions.pdf)  
 
