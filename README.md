@@ -77,12 +77,19 @@ The course is suited to researchers interested in understanding cancer from an e
      - [Download shipping label here](Shipping_label_EBEC2022.pdf)  
      - [Campus map](Campus_map.pdf)  
 
-## Pre-course reading
+## Pre-course actions
+**Session 3: Fitting maths models to data**  
+     - [Installation instructions](S3_Fitting_maths_models_to_data_installation_instructions.pdf)  
+
 **Session 4: Evolutionary game theory**  
-     - [Document 1](S4_Evolutionary_game_theory_pre-course_reading_1.pdf)  
-     - [Document 2](S4_Evolutionary_game_theory_pre-course_reading_2.pdf)  
+     - [Pre-course reading 1](S4_Evolutionary_game_theory_pre-course_reading_1.pdf)  
+     - [Pre-course reading 2](S4_Evolutionary_game_theory_pre-course_reading_2.pdf)  
   
-  
+**Session 8: Landscape ecology**  
+     - [Installation instructions to be added soon]    
+
+**Sessions 9: Phylogenomics - mutation rates and 10: Phylogenomics - demographics, biogeography**
+     - [Click here to complete the knowledge survey](https://forms.gle/MxDD1NTSpJFPwMbb9)  
 
 
 
