@@ -86,7 +86,7 @@ The course is suited to researchers interested in understanding cancer from an e
      - [Pre-course reading 2](S4_Evolutionary_game_theory_pre-course_reading_2.pdf)  
   
 **Session 8: Landscape ecology**  
-     - [Installation instructions to be added soon]    
+     - [Installation instructions](S8_Landscape_ecology_installation_instructions.pdf)  
 
 **Sessions 9: Phylogenomics - mutation rates and 10: Phylogenomics - demographics, biogeography**  
      - [Complete knowledge survey here](https://forms.gle/MxDD1NTSpJFPwMbb9)  
