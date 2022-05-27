@@ -88,7 +88,7 @@ The course is suited to researchers interested in understanding cancer from an e
 **Session 8: Landscape ecology**  
      - [Installation instructions to be added soon]    
 
-**Sessions 9: Phylogenomics - mutation rates and 10: Phylogenomics - demographics, biogeography**
+**Sessions 9: Phylogenomics - mutation rates and 10: Phylogenomics - demographics, biogeography**  
      - [Click here to complete the knowledge survey](https://forms.gle/MxDD1NTSpJFPwMbb9)  
 
 
