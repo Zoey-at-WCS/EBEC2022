@@ -89,7 +89,7 @@ The course is suited to researchers interested in understanding cancer from an e
      - [Pre-course reading and installation instructions](S6_Immune_selection_pre-course_reading_and_installation_instructions.pdf)  
 
 **Session 7: Digital pathology and ecology**  
-     - [Installation instructions](S8_Landscape_ecology_installation_instructions.pdf)  
+     - [Installation instructions](S7_Digital_pathology_and_ecology_installation_instructions.pdf)  
 
 **Session 8: Landscape ecology**  
      - [Installation instructions](S8_Landscape_ecology_installation_instructions.pdf)  
