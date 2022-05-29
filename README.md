@@ -86,7 +86,7 @@ The course is suited to researchers interested in understanding cancer from an e
      - [Pre-course reading 2](S4_Evolutionary_game_theory_pre-course_reading_2.pdf)  
 
 **Session 6: Immune selection**  
-     - [Pre-course reading and installation instructions](S6_Immune_selection_pre-course reading_and_installation_instructions.pdf)  
+     - [Pre-course reading and installation instructions](S6_Immune_selection_pre-course_reading_and_installation_instructions.pdf)  
 
 **Session 8: Landscape ecology**  
      - [Installation instructions](S8_Landscape_ecology_installation_instructions.pdf)  
