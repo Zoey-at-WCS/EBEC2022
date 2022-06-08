@@ -34,7 +34,6 @@ The course is suited to researchers interested in understanding cancer from an e
 - [Michelle Lockley](https://www.bartscancer.london/staff/dr-michelle-lockley/), St Bartholomew's Hospital and Queen Mary, University of London, UK
 - [Diego Mallo Adan](https://isearch.asu.edu/profile/2740266), Arizona State University, USA
 - [Kateřina Staňková](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/associate-professors/k-katerina-stankova), Delft University of Technology, The Netherlands
-- [Ewa Szczurek](https://www.mimuw.edu.pl/~szczurek/), University of Warsaw, Poland
 - [Nick Trahearn](https://www.icr.ac.uk/our-research/research-divisions/division-of-molecular-pathology/evolutionary-genomics-modelling), Institute of Cancer Research, UK
 
 ## Delegate pack
@@ -76,6 +75,7 @@ The course is suited to researchers interested in understanding cancer from an e
      - [List of poster numbers](Poster_list_EBEC2022.pdf)  
      - [Download shipping label here](Shipping_label_EBEC2022.pdf)  
      - [Campus map](Campus_map.pdf)  
+     - [Access Slack workspace here](evolutionaryb-uff4961.slack.com) 
 
 ## Pre-course preparation
 **Session 3: Fitting maths models to data**  
