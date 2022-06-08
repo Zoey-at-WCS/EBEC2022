@@ -25,6 +25,8 @@ The course is suited to researchers interested in understanding cancer from an e
 - [Robert Gatenby](https://moffitt.org/research-science/researchers/robert-gatenby/), Moffitt Cancer Center, USA
 
 ## Tutors
+- [Julia Bakker](https://www.linkedin.com/in/julia-bakker-5409a115a/?originalSubdomain=uk), Institute of Cancer Research, UK
+- [Juanita Bawagan](https://bold.expert/authors/juanita-bawagan/), Institute of Cancer Research, UK
 - [Giulio Caravagna](https://sites.google.com/site/giuliocaravagna/), University of Trieste, Italy
 - [Luis Cisneros](https://biodesign.asu.edu/luis-cisneros), Arizona State University, USA
 - [Calum Gabbutt](https://orcid.org/0000-0003-1946-4780), Institute of Cancer Research, UK
