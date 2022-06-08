@@ -75,7 +75,7 @@ The course is suited to researchers interested in understanding cancer from an e
      - [List of poster numbers](Poster_list_EBEC2022.pdf)  
      - [Download shipping label here](Shipping_label_EBEC2022.pdf)  
      - [Campus map](Campus_map.pdf)  
-     - [Access Slack workspace here](evolutionaryb-uff4961.slack.com) 
+     - [Access Slack workspace here](https://join.slack.com/t/evolutionaryb-uff4961/shared_invite/zt-1ali97xkx-D~AHMrSBWV~mC9BAfi4~cw) 
 
 ## Pre-course preparation
 **Session 3: Fitting maths models to data**  
