@@ -96,7 +96,7 @@ The course is suited to researchers interested in understanding cancer from an e
      - [Pre-course reading 2](Galon_Immunoscore.pdf)  
      - [Pre-course reading 3](Maley_Morisita.pdf)  
      - [Pre-course reading 4](S4_Evolutionary_game_theory_pre-course_reading_2.pdf)  
-     - [Pre-course reading 5](S4_Evolutionary_game_theory_pre-course_reading_2.pdf)   
+     - [Pre-course reading 5](Yuan_ITLR.pdf)   
 
 **Session 8: Landscape ecology**  
      - [Installation instructions](S8_Landscape_ecology_installation_instructions.pdf)  
