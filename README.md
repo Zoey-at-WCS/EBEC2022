@@ -104,6 +104,9 @@ The course is suited to researchers interested in understanding cancer from an e
 **Sessions 9: Phylogenomics - mutation rates and 10: Phylogenomics - demographics, biogeography**  
      - [Complete knowledge survey here](https://forms.gle/MxDD1NTSpJFPwMbb9)  
 
+**Session 12: Communication**  
+     - [Pre-course reading](S6_Immune_selection_pre-course_reading_and_installation_instructions.pdf)  
+
 
 
 
