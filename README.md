@@ -93,7 +93,7 @@ The course is suited to researchers interested in understanding cancer from an e
 **Session 7: Digital pathology and ecology**  
      - [Installation instructions](S7_Digital_pathology_and_ecology_installation_instructions.pdf)  
      - [Pre-course reading 1](AbdulJabbar_Geospatial.pdf)  
-     - [Pre-course reading 2](S4_Evolutionary_game_theory_pre-course_reading_2.pdf)  
+     - [Pre-course reading 2](Galon_Immunoscore.pdf)  
      - [Pre-course reading 3](S4_Evolutionary_game_theory_pre-course_reading_1.pdf)  
      - [Pre-course reading 4](S4_Evolutionary_game_theory_pre-course_reading_2.pdf)  
 
