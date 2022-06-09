@@ -65,7 +65,7 @@ The course is suited to researchers interested in understanding cancer from an e
   - Session 12: Communication
   - Consolidation of learning and concluding remarks
 
-[Download detailed programme here](Programme_online_EBEC2022.pdf)
+[Download detailed programme here](Programme_online_EBEC2022_v2.pdf)
 
 **Attendees**  
      - [Delegate list to be added soon]  
