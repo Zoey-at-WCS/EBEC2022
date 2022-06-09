@@ -96,7 +96,7 @@ The course is suited to researchers interested in understanding cancer from an e
      - [Pre-course reading 2](Galon_Immunoscore.pdf)  
      - [Pre-course reading 3](Maley_Morisita.pdf)  
      - [Pre-course reading 4](Yuan_ITLR.pdf)  
-     - [Pre-course reading 5 to follow]  
+     - [Pre-course reading 5 - Sirinukunwattana, K., Raza, S.E.A., Tsang, Y.W., Snead, D.R., Cree, I.A. and Rajpoot, N.M., 2016. Locality sensitive deep learning for detection and classification of nuclei in routine colon cancer histology images. IEEE transactions on medical imaging, 35(5), pp.1196-1206. PDF to follow]  
 
 **Session 8: Landscape ecology**  
      - [Installation instructions](S8_Landscape_ecology_installation_instructions.pdf)  
