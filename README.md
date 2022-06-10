@@ -102,6 +102,7 @@ The course is suited to researchers interested in understanding cancer from an e
      - [Pre-course reading 3](Maley_Morisita.pdf)  
      - [Pre-course reading 4](Yuan_ITLR.pdf)  
      - [Pre-course reading 5](Sirinukunwattana_SCCNN_Compressed.pdf)  
+     - Tutor added extra details to Slack: [click here to access](https://join.slack.com/t/evolutionaryb-uff4961/shared_invite/zt-1ali97xkx-D~AHMrSBWV~mC9BAfi4~cw)  
 
 **Session 8: Landscape ecology**  
      - [Installation instructions](S8_Landscape_ecology_installation_instructions.pdf)  
