@@ -68,9 +68,11 @@ The course is suited to researchers interested in understanding cancer from an e
 [Download detailed programme here](Programme_online_EBEC2022_v2.pdf)
 
 **Attendees**  
-     - [Delegate list to be added soon]  
+     - [Delegate list - speakers](Student_del_list_EBEC2022.pdf) 
      - [Tutor biographies to be added soon]  
-     - [Student biographies to be added soon]  
+     - [Delegate list - students](Student_del_list_EBEC2022.pdf)  
+     - [Biographies - students - to be added soon]  
+
 
 **Useful information**  
      - [Welcome letter](Welcome_letter_EBEC2022.pdf)  
