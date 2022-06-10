@@ -69,10 +69,10 @@ The course is suited to researchers interested in understanding cancer from an e
 
 **Attendees**  
      - [Biographies - Committee](Committee_bios_EBEC2022.pdf)  
-     - [Delegate list - Tutors](Speaker_del_list_EBEC2022.pdf) 
+     - [Delegate list - Tutors](Speaker_del_list_EBEC2022.pdf)  
      - [Biographies - Tutors](Speaker_bios_EBEC2022.pdf)  
      - [Delegate list - Students](Student_del_list_EBEC2022.pdf)  
-     - [Biographies - Students - to be added soon]  
+     - [Biographies - Students](Student_bios_EBEC2022 v2.pdf)  
 
 **Useful information**  
      - [Welcome letter](Welcome_letter_EBEC2022.pdf)  
