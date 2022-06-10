@@ -95,6 +95,7 @@ The course is suited to researchers interested in understanding cancer from an e
 
 **Session 6: Immune selection**  
      - [Pre-course reading and installation instructions](S6_Immune_selection_pre-course_reading_and_installation_instructions.pdf)  
+     - Tutor added extra details to Slack: [click here to access](https://join.slack.com/t/evolutionaryb-uff4961/shared_invite/zt-1ali97xkx-D~AHMrSBWV~mC9BAfi4~cw)  
 
 **Session 7: Digital pathology and ecology**  
      - [Installation instructions](S7_Digital_pathology_and_ecology_installation_instructions.pdf)  
