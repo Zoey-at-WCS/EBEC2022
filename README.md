@@ -83,7 +83,7 @@ The course is suited to researchers interested in understanding cancer from an e
 
 ## Pre-course preparation
 **Session 2: Bioinformatics for cancer**  
-     - Tutor added details to Slack [click here to access](https://join.slack.com/t/evolutionaryb-uff4961/shared_invite/zt-1ali97xkx-D~AHMrSBWV~mC9BAfi4~cw)  
+     - Tutor added details to Slack: [click here to access](https://join.slack.com/t/evolutionaryb-uff4961/shared_invite/zt-1ali97xkx-D~AHMrSBWV~mC9BAfi4~cw)  
 
 **Session 3: Fitting maths models to data**  
      - [Installation instructions](S3_Fitting_maths_models_to_data_installation_instructions.pdf)  
