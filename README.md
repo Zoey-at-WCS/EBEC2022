@@ -87,6 +87,7 @@ The course is suited to researchers interested in understanding cancer from an e
 
 **Session 3: Fitting maths models to data**  
      - [Installation instructions](S3_Fitting_maths_models_to_data_installation_instructions.pdf)  
+     - Tutor added extra details to Slack: [click here to access](https://join.slack.com/t/evolutionaryb-uff4961/shared_invite/zt-1ali97xkx-D~AHMrSBWV~mC9BAfi4~cw)  
 
 **Session 4: Evolutionary game theory**  
      - [Pre-course reading 1](S4_Evolutionary_game_theory_pre-course_reading_1.pdf)  
