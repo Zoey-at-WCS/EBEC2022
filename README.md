@@ -76,7 +76,7 @@ The course is suited to researchers interested in understanding cancer from an e
 
 **Useful information**  
      - [Welcome letter](Welcome_letter_EBEC2022.pdf)  
-     - [List of poster numbers](Poster_list_EBEC2022.pdf)  
+     - [List of poster numbers](Poster_list_EBEC2022_v2.pdf)  
      - [Download shipping label here](Shipping_label_EBEC2022.pdf)  
      - [Campus map](Campus_map.pdf)  
      - [Access Slack workspace here](https://join.slack.com/t/evolutionaryb-uff4961/shared_invite/zt-1ali97xkx-D~AHMrSBWV~mC9BAfi4~cw) 
