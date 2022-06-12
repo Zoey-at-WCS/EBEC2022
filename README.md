@@ -93,6 +93,9 @@ The course is suited to researchers interested in understanding cancer from an e
      - [Pre-course reading 1](S4_Evolutionary_game_theory_pre-course_reading_1.pdf)  
      - [Pre-course reading 2](S4_Evolutionary_game_theory_pre-course_reading_2.pdf)  
 
+**Session 5: Agent-based modeling**  
+     - Tutor added all pre-course prep details to Slack: [click here to access](https://join.slack.com/t/evolutionaryb-uff4961/shared_invite/zt-1ali97xkx-D~AHMrSBWV~mC9BAfi4~cw)  
+
 **Session 6: Immune selection**  
      - [Pre-course reading and installation instructions](S6_Immune_selection_pre-course_reading_and_installation_instructions.pdf)  
      - Tutor added extra details to Slack: [click here to access](https://join.slack.com/t/evolutionaryb-uff4961/shared_invite/zt-1ali97xkx-D~AHMrSBWV~mC9BAfi4~cw)  
