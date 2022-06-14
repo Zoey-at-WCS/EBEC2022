@@ -84,7 +84,7 @@ The course is suited to researchers interested in understanding cancer from an e
 ## Pre-course preparation
 **Session 1:  Introduction to key evolutionary concepts**  
      - [Course reading 1](aktipis-LHT-in-cancer-NRC.pdf)  
-     - [Course reading 2](Galon_Immunoscore.pdf)  
+     - [Course reading 2](aktipis-cancer-across-life.pdf)  
      - [Course reading 3](Maley_Morisita.pdf)  
      - [Course reading 4](Yuan_ITLR.pdf)  
      - [Course reading 5](Sirinukunwattana_SCCNN_Compressed.pdf)  
