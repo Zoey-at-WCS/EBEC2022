@@ -88,7 +88,7 @@ The course is suited to researchers interested in understanding cancer from an e
      - [Course reading 3](greaves-maley-nature-review.pdf)  
      - [Course reading 4](hanahan-hallmarks-2011.pdf)  
      - [Course reading 5](hanahan-hallmarks-new-dimensions.pdf)  
-     - [Course reading 6](Sirinukunwattana_SCCNN_Compressed.pdf)  
+     - [Course reading 6](nowell-1976.pdf)  
 
 **Session 2: Bioinformatics for cancer**  
      - Tutor added all pre-course prep details to Slack: [click here to access](https://join.slack.com/t/evolutionaryb-uff4961/shared_invite/zt-1ali97xkx-D~AHMrSBWV~mC9BAfi4~cw)  
