@@ -79,7 +79,7 @@ The course is suited to researchers interested in understanding cancer from an e
      - [List of poster numbers](Poster_list_EBEC2022_v4.pdf)  
      - [Download shipping label here](Shipping_label_EBEC2022.pdf)  
      - [Campus map](Campus_map.pdf)  
-     - [Access Slack workspace here](https://join.slack.com/t/evolutionaryb-uff4961/shared_invite/zt-1ali97xkx-D~AHMrSBWV~mC9BAfi4~cw) - most Tutors have added documents and installation guides to Slack, so be sure to check it regularly.  
+     - [Access Slack workspace here](https://join.slack.com/t/evolutionaryb-uff4961/shared_invite/zt-1ali97xkx-D~AHMrSBWV~mC9BAfi4~cw) - most Tutors have added documents and installation guides to Slack, so be sure to check it regularly  
 
 ## Pre-course preparation
 **Session 1:  Introduction to key evolutionary concepts**  
