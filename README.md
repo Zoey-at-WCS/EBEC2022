@@ -86,7 +86,7 @@ The course is suited to researchers interested in understanding cancer from an e
      - [Course reading 1](aktipis-LHT-in-cancer-NRC.pdf)  
      - [Course reading 2](aktipis-cancer-across-life.pdf)  
      - [Course reading 3](greaves-maley-nature-review.pdf)  
-     - [Course reading 4](Yuan_ITLR.pdf)  
+     - [Course reading 4](hanahan-hallmarks-2011.pdf)  
      - [Course reading 5](Sirinukunwattana_SCCNN_Compressed.pdf)  
      - [Course reading 6](Sirinukunwattana_SCCNN_Compressed.pdf)  
 
