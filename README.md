@@ -82,6 +82,14 @@ The course is suited to researchers interested in understanding cancer from an e
      - [Access Slack workspace here](https://join.slack.com/t/evolutionaryb-uff4961/shared_invite/zt-1ali97xkx-D~AHMrSBWV~mC9BAfi4~cw) 
 
 ## Pre-course preparation
+**Session 1:  Introduction to key evolutionary concepts**  
+     - [Course reading 1](AbdulJabbar_Geospatial.pdf)  
+     - [Course reading 2](Galon_Immunoscore.pdf)  
+     - [Course reading 3](Maley_Morisita.pdf)  
+     - [Course reading 4](Yuan_ITLR.pdf)  
+     - [Course reading 5](Sirinukunwattana_SCCNN_Compressed.pdf)  
+     - [Course reading 6](Sirinukunwattana_SCCNN_Compressed.pdf)  
+
 **Session 2: Bioinformatics for cancer**  
      - Tutor added all pre-course prep details to Slack: [click here to access](https://join.slack.com/t/evolutionaryb-uff4961/shared_invite/zt-1ali97xkx-D~AHMrSBWV~mC9BAfi4~cw)  
 
